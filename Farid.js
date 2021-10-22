@@ -46,8 +46,8 @@ const lolkey = '0b0ffba94f2b803b88721e4f'
 
 hargalimit = "100"
 limitawal = "20"
-namabot = "W I l B O t"
-namaowner = "WildanM"
+namabot = "W I l B O T'"
+namaowner = "WildanM'"
 nomerowner = '6283829174979'
 gamewaktu = "30"
 leave = 'sayonara'
